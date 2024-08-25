@@ -48,7 +48,7 @@ Você pode ajustar o número de caracteres da senha e copiar facilmente a senha 
 
 ## 📸 Captura de Tela
 
-![Captura de Tela](screenshot.png)
+![Captura de Tela](screenshots.png)
 
 ## 📂 Estrutura do Projeto
 

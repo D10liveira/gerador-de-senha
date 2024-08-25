@@ -55,9 +55,9 @@ Você pode ajustar o número de caracteres da senha e copiar facilmente a senha 
 ```plaintext
 gerador-de-senhas-flet/
 │
-├── main.py            # Código principal da aplicação
-├── README.md          # Este arquivo
-└── requirements.txt   # Dependências do projeto
+├── geradorDeSenhas.py     # Código principal da aplicação
+├── README.md              # Este arquivo
+└── requirements.txt       # Dependências do projeto
 ```
 
 🔄 Contribuições

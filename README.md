@@ -58,6 +58,7 @@ gerador-de-senhas-flet/
 ├── main.py            # Código principal da aplicação
 ├── README.md          # Este arquivo
 └── requirements.txt   # Dependências do projeto
+```
 
 🔄 Contribuições
 Sinta-se à vontade para contribuir com melhorias para este projeto! Siga estas etapas para contribuir:

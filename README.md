@@ -61,18 +61,23 @@ gerador-de-senhas-flet/
 ```
 
 🔄 Contribuições
+
 Sinta-se à vontade para contribuir com melhorias para este projeto! Siga estas etapas para contribuir:
 
-Faça um fork do projeto
-Crie uma nova branch (git checkout -b feature/nova-funcionalidade)
-Faça as suas alterações e faça commit delas (git commit -m 'Adicionar nova funcionalidade')
-Envie para o repositório remoto (git push origin feature/nova-funcionalidade)
-Abra um Pull Request
+- Faça um fork do projeto
+- Crie uma nova branch (git checkout -b feature/nova-funcionalidade)
+- Faça as suas alterações e faça commit delas (git commit -m 'Adicionar nova funcionalidade')
+- Envie para o repositório remoto (git push origin feature/nova-funcionalidade)
+- Abra um Pull Request
 
 📃 Licença
+
 Este projeto é licenciado sob a MIT License.
 
+
 🧑‍💻 Autor
+
 Desenvolvido por Dieimisson Oliveira. Entre em contato para mais informações ou dúvidas!
+
 
 ⭐ Se você gostou deste projeto, dê uma estrela no repositório! ⭐

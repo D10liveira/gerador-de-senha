@@ -21,8 +21,8 @@ Você pode ajustar o número de caracteres da senha e copiar facilmente a senha 
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/gerador-de-senhas-flet.git
-    cd gerador-de-senhas-flet
+    git clone https://github.com/D10liveira/gerador-de-senha.git
+    cd gerador-de-senha
     ```
 
 2. **Instale as dependências:**
